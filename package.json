@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vvnab/AppMetricaCordovaPlugin.git"
+    "url": "git+https://github.com/Able1991/AppMetricaCordovaPlugin.git"
   },
   "keywords": [
     "yandex",
@@ -17,7 +17,7 @@
   "author": "vvnab",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vvnab/AppMetricaCordovaPlugin/issues"
+    "url": "https://github.com/Able1991/AppMetricaCordovaPlugin/issues"
   },
-  "homepage": "https://github.com/vvnab/AppMetricaCordovaPlugin#readme"
+  "homepage": "https://github.com/Able1991/AppMetricaCordovaPlugin#readme"
 }
