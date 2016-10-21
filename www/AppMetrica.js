@@ -8,7 +8,7 @@
             function(error) {
                 console.warn('cordova.exec ' + error)
             },
-            "AppMetrica",
+            "AppMetricaPlugin",
             "activate",
             [args]);
     };
@@ -18,7 +18,7 @@
             function(error) {
                 console.warn('cordova.exec ' + error)
             },
-            "AppMetrica",
+            "AppMetricaPlugin",
             "reportEvent",
             [event, params]);
     };
